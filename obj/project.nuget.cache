@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZUUF0WsgIoSkzNyevpRRqJX+uQ4LC2JfZ4LZPq9/GDXAWDAcdhWRHVKw1RbmIDqJxo70xkqix5g6CVHFi/3jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kade Dentel\\Documents\\Coding\\Technical-CS\\TechDemoProject\\TechnicalCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kade Dentel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

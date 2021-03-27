@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kade Dentel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kade Dentel\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\bin\Release\netcoreapp3.1\TechnicalCS.exe
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\bin\Release\netcoreapp3.1\TechnicalCS.deps.json
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\bin\Release\netcoreapp3.1\TechnicalCS.runtimeconfig.json
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\bin\Release\netcoreapp3.1\TechnicalCS.runtimeconfig.dev.json
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\bin\Release\netcoreapp3.1\TechnicalCS.dll
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\bin\Release\netcoreapp3.1\TechnicalCS.pdb
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\obj\Release\netcoreapp3.1\TechnicalCS.AssemblyInfoInputs.cache
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\obj\Release\netcoreapp3.1\TechnicalCS.AssemblyInfo.cs
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\obj\Release\netcoreapp3.1\TechnicalCS.csproj.CoreCompileInputs.cache
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\obj\Release\netcoreapp3.1\TechnicalCS.dll
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\obj\Release\netcoreapp3.1\TechnicalCS.pdb
+C:\Users\Kade Dentel\Documents\Coding\Technical-CS\HashTables\HashTables\obj\Release\netcoreapp3.1\TechnicalCS.genruntimeconfig.cache
